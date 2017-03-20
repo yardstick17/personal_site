@@ -201,9 +201,13 @@
 .fa-envelope-o:before {
   content: "\f003";
 }
-.fa-heart:before {
+.fa-book:before {
   content: "\f004";
 }
+.fa-profile:before {
+  content: "\f004";
+}
+
 .fa-star:before {
   content: "\f005";
 }
@@ -244,7 +248,7 @@
   content: "\f012";
 }
 .fa-gear:before,
-.fa-cog:before {
+.fa-user:before {
   content: "\f013";
 }
 .fa-trash-o:before {
@@ -318,6 +322,10 @@
   content: "\f02c";
 }
 .fa-book:before {
+  content: "\f02d";
+}
+
+.fa-profile:before {
   content: "\f02d";
 }
 .fa-bookmark:before {

@@ -8,6 +8,9 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {outline: none !important;
 }
+.img-circle {
+	border-radius: 50%;
+}
 html{
 	background:#fff;
 }
@@ -19,8 +22,8 @@ body{
 	width: 100%;
 	overflow: hidden;
 	height:100%;
-	/*background: url(../images/amit_kushwaha.jpg) center center no-repeat;*/
-	background-color: #1c1c1c;
+	background: url(../images/amit_kushwaha.jpg) center center no-repeat;
+	/*background-color: #1c1c1c;*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -377,7 +380,7 @@ border: none;
 }
 
 
- .Des .fa-heart{
+ .Des .fa-book{
 	//margin-left: -14px;
 	background: url(../images/cir.png) no-repeat;
 	padding: 26px;
@@ -385,6 +388,16 @@ border: none;
 	color: #fff;
 	font-family: FontAwesome;
 	text-align: center;
+}
+
+.fa-profile {
+//margin-left: -14px;
+    background: url(../images/cir.png) no-repeat;
+    padding: 26px;
+    font-size: 24px;
+    color: #fff;
+    font-family: FontAwesome;
+    text-align: center;
 }
 .Fresh{
 	margin-bottom: 145px;
@@ -407,7 +420,7 @@ border: none;
 	margin-top: 12px;
 	line-height: 23px;
 }
-.fa-cog {
+.fa-c {
 	margin-left: 2px;
 	background: url(../images/cir.png) no-repeat;
 	padding: 26px;
@@ -1440,9 +1453,10 @@ textarea {
 	width: 100%;
 	overflow: hidden;
 	max-height:100%;
-	//background:#3f2d28;
-	background: url(../images/line7Bg.jpg) center center no-repeat;
-	-webkit-background-size: cover;
+	/*background:#3f2d28;*/
+	/*background: url(../images/line7Bg.jpg) center center no-repeat;*/
+	background-color: #1c1c1c;
+    -webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
@@ -1785,7 +1799,7 @@ textarea {
 	left: 0;
 	width: 100%;
 	height: 178px;
-	background: url(../images/bgBeforFooter.png) center center no-repeat;
+	/*background: url(../images/bgBeforFooter.png) center center no-repeat;*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

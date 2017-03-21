@@ -22,7 +22,7 @@ body{
 	width: 100%;
 	overflow: hidden;
 	height:100%;
-	background: url(../images/amit_kushwaha.jpg) center center no-repeat;
+	background: url(../images/backgroung.png) center center no-repeat;
 	/*background-color: #1c1c1c;*/
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -385,7 +385,7 @@ border: none;
 	background: url(../images/cir.png) no-repeat;
 	padding: 26px;
 	font-size: 24px;
-	color: #fff;
+	color: #1c1c1c;
 	font-family: FontAwesome;
 	text-align: center;
 }
@@ -395,14 +395,14 @@ border: none;
     background: url(../images/cir.png) no-repeat;
     padding: 26px;
     font-size: 24px;
-    color: #fff;
+    color: #1c1c1c;
     font-family: FontAwesome;
     text-align: center;
 }
 .Fresh{
-	margin-bottom: 145px;
-	color: #fff;
-	margin-top: 250px;
+	margin-bottom: 100px;
+	color: #1c1c1c;
+	margin-top: 100px;
 	text-align: center;
 	
 }
@@ -425,7 +425,7 @@ border: none;
 	background: url(../images/cir.png) no-repeat;
 	padding: 26px;
 	font-size: 24px;
-	color: #fff;
+	color: #1c1c1c;
 	font-family: FontAwesome;
 	text-align: center;
 }
@@ -444,13 +444,13 @@ border: none;
 	background: url(../images/cir.png) no-repeat;
 	padding: 26px;
 	font-size: 24px;
-	color: #fff;
+	color: #1c1c1c;
 	font-family: FontAwesome;
 	text-align: center;
 }
 /**/
 .wwa{
-	margin-top: 8px;
+	margin-top: 20px;
 	text-align: center;
 }
 .wwa h3{
@@ -740,10 +740,16 @@ border: none;
 	//bottom: 489px;
 }
 .Ama{
-	margin-top: 201px;
-	margin-bottom: 133px;
+	margin-top: 50px;
+	margin-bottom: 20px;
 /*	margin-top: 241px;
 	margin-bottom: 94px;*/
+}
+.got_a_question{
+    margin-top: 80px;
+    margin-bottom: 20px;
+    /*	margin-top: 241px;
+        margin-bottom: 94px;*/
 }
 
 @media screen and (min-device-width:1919px) {   
@@ -755,7 +761,7 @@ border: none;
 .Ama h3{
 	font-size: 42px;
 	text-align:center;
-	color: #fff;
+	color: #1c1c1c;
 	font-family: 'Roboto', 'sans-serif';
 	font-weight: 400;
 	margin-top: 17px;
@@ -763,7 +769,7 @@ border: none;
 .Ama p{
 	font-size: 16px;
 	text-align:center;
-	color: #fff;
+	color: #1c1c1c;
 	font-family: 'Roboto', 'sans-serif';
 	font-weight: 300;
 }
@@ -1067,6 +1073,10 @@ border: none;
 	margin-bottom: 94px;*/
 }
 /**/
+.news {
+
+}
+
 .news{
 	margin-top: 50px;
 }

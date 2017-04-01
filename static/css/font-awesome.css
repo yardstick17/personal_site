@@ -572,6 +572,11 @@
 .fa-facebook-square:before {
   content: "\f082";
 }
+
+.fa-linkedin-square:before {
+    content: "\f082";
+}
+
 .fa-camera-retro:before {
   content: "\f083";
 }
